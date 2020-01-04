@@ -5,8 +5,11 @@
 Για την εγκατάσταση του προγράμματος θα πρέπει να υπάρχει στον φάκελο το λογισμικό OR-Tools της Google.
 Εγκατάσταση του λογισμικού για Windows:
 1)Visual Studio Community 2017 https://visualstudio.microsoft.com/vs/older-downloads/
+
 2)Google OR-Tools (κατέβασμα zip αρχείου και αποσυμπίεση)
+
 3)Μεταφορά του αποσυμπιεσμένου καταλόγου (or-tools_VisualStudio2017-64bit_v7.4.7247 ή παρόμοιο) στο κατάλογο στον οποίο θα κατέβει το τρέχον αποθετήριο.
+
 4)Μετονομασία του or-tools_VisualStudio2017-64bit_v7.4.7247 σε ortools
 
 Έπειτα για εγκατάσταση του προγράμματος:
